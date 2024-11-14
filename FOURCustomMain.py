@@ -1,7 +1,7 @@
-** 
+"
 Mekhel
 This code integrates `FOURCustomCode.py` into `main.py` for handling movement, obstacle avoidance, and whiteboard detection. This allows `main.py` to use modularized code from `FOURCustomCode.py`, enhancing readability and organization.
-**
+"
 
 from utils.armControl import *
 from utils.basicMovement import *
